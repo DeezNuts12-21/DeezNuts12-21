@@ -1,5 +1,6 @@
-### Hi there 👋
-
+### Hi there 👋, what's good.
+I'm a guy. That's cool I guess.
+Follow for random stuff (once per decade probably).
 <!--
 **DeezNuts12-21/DeezNuts12-21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
